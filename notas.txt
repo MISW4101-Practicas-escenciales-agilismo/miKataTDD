@@ -1,0 +1,4 @@
+cuando no se tienen elementos debe retornar nulo o error
+cuando se tiene 1 elemento debe retornar el mismo elemento
+cuando se tiene 2 elementos debe retornar la suma dividido 2
+cuando se tienen n elementos es la suma de todos dividido n
